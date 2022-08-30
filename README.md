@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Rapkalin/rapkalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome** on my ✨ _profil_ ✨!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working: 
+  > at Mazarine Digital (Paris, France) on:
+    > Opéra National de Paris website
+    > The Ladies Bank website
+ 
+  > on personnal projects:
+    > Coach web app
+    > Customized Laravel CMS
+    > Github worflow for auto-deploy
+  
+- 🌱 I’m currently learning:
+  > PHP : no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress
+  > Ruby : Ruby on rails
+  > SQL, YML (gitlab-ci auto-deploy)
+  > HTML, CSS, JS
+  > Markdown for Readme purpose :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 How to reach me: 
+  > [raphael@myminicom.com](mailto:raphael@myminicom.com)
+  > [Linkedin](https://www.linkedin.com/in/r-kalinowski/)
+
