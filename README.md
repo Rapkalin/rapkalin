@@ -30,7 +30,7 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 **on personnal projects:**<br>
 Coach Webapp // WIP > Website - Ruby/Ruby on rails : Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)<br>
 CMS Laravel // WIP > Blog - PHP/Laravel : Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)<br>
-Bigupload //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload) / Try it live.<br>
+Bigupload //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload) / Try it [live](https://bigupload.myminicom.com/).<br>
 Github worflow // Auto-deploy<br>
   
 ### 🌱 I’m currently learning:<br>
