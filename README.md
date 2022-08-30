@@ -25,8 +25,8 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 ### 🔭 I’m currently working:
 
 :technologist: __At work:__<br>
-  - Opéra National de Paris website<br>
-  - The Ladies Bank website<br>
+  - Opéra National de Paris > [visit the website](https://www.operadeparis.fr/)<br>
+  - The Ladies Bank [visit the website](https://www.ladiesbank.fr/)<br>
  
 :lotus_position_man: __At home:__<br>
 
