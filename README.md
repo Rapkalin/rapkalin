@@ -21,5 +21,6 @@
 
 - 💬 How to reach me: 
   > Email: [raphael@myminicom.com](mailto:raphael@myminicom.com)<br>
-  > [Linkedin](https://www.linkedin.com/in/r-kalinowski/)
+  > My [Linkedin](https://www.linkedin.com/in/r-kalinowski/)<br>
+  > My [Instagram](https://www.instagram.com/rapkalin)
 
