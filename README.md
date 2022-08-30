@@ -20,6 +20,6 @@
   > Markdown for Readme purpose :)
 
 - 💬 How to reach me: 
-  > [raphael@myminicom.com](mailto:raphael@myminicom.com) // <br>
+  > [raphael@myminicom.com](mailto:raphael@myminicom.com)<br>
   > [Linkedin](https://www.linkedin.com/in/r-kalinowski/)
 
