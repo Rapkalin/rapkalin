@@ -6,7 +6,7 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 ### 🛠 Languages and statistics
 
-![](https://github-readme-stats.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweh&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapkalin&layout=compact)
 
 - 🔭 I’m currently working:<br>
   > at Mazarine Digital (Paris, France) on:<br>
