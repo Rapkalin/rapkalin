@@ -23,25 +23,25 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 
 ### 🔭 I’m currently working:<br>
-  > **at Mazarine Digital (Paris, France) on:**<br>
-    > Opéra National de Paris website<br>
-    > The Ladies Bank website<br>
+  **at Mazarine Digital (Paris, France) on:**<br>
+    Opéra National de Paris website<br>
+    The Ladies Bank website<br>
  
-  > **on personnal projects:**<br>
-    > WIP > Website - Ruby/Ruby on rails : Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)<br>
-    > WIP > Blog - PHP/Laravel : Customized Laravel CMS. See the repo<br>
-    > Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the repo / Try it live.<br>
-    > Github worflow for auto-deploy<br>
+**on personnal projects:**<br>
+Coach Webapp // WIP > Website - Ruby/Ruby on rails : Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)<br>
+CMS Laravel // WIP > Blog - PHP/Laravel : Customized Laravel CMS. See the repo(https://github.com/Rapkalin/projet-laravel)<br>
+Bigupload //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the repo(https://github.com/Rapkalin/bigupload) / Try it live.<br>
+Github worflow // Auto-deploy<br>
   
 ### 🌱 I’m currently learning:<br>
-  > PHP : no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress<br>
-  > Ruby : Ruby on rails<br>
-  > SQL, YML (gitlab-ci auto-deploy)<br>
-  > HTML, CSS, JS<br>
-  > Markdown for Readme purpose :)<br>
+PHP : no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress<br>
+Ruby : Ruby on rails<br>
+SQL, YML (gitlab-ci auto-deploy)<br>
+HTML, CSS, JS<br>
+Markdown for Readme purpose :)<br>
 
 ### 💬 How to reach me:<br>
-  > Email: [raphael@myminicom.com](mailto:raphael@myminicom.com)<br>
-  > My [Linkedin](https://www.linkedin.com/in/r-kalinowski/)<br>
-  > My [Instagram](https://www.instagram.com/rapkalin)
+Email: [raphael@myminicom.com](mailto:raphael@myminicom.com)<br>
+My [Linkedin](https://www.linkedin.com/in/r-kalinowski/)<br>
+My [Instagram](https://www.instagram.com/rapkalin)
 
