@@ -13,8 +13,9 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
     > The Ladies Bank website
  
   > on personnal projects:
-    > Coach web app
-    > Customized Laravel CMS
+    > WIP > Website - Ruby/Ruby on rails : Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)
+    > WIP > Blog - PHP/Laravel : Customized Laravel CMS. See the repo
+    > Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the repo / Try it live.
     > Github worflow for auto-deploy
   
 - 🌱 I’m currently learning:
