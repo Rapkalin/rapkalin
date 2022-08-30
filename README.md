@@ -8,7 +8,6 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 ![](https://github-readme-stats.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweh&layout=compact)
 
-
 - 🔭 I’m currently working: 
   > at Mazarine Digital (Paris, France) on:
     > Opéra National de Paris website
