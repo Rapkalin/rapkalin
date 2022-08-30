@@ -2,7 +2,7 @@
 
 **Welcome!**
 
-My name is Raphael and 
+My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 ![](https://raw.githubusercontent.com/rapkalin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rapkalin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
