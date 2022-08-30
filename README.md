@@ -3,6 +3,11 @@
 
 My name is Raphael and I'm a backend developer that loves resolving problems :)
 
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/raphael_bonjour/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-kalinowski/)
+[![Instagram Badge]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.linkedin.com/in/r-kalinowski/)
+
 ---
 
 ### 🛠 Languages and statistics
@@ -10,7 +15,7 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapkalin&layout=compact" alt="Noweh" height="195"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapkalin&layout=compact" alt="rapkalin" height="195"/>  
 </div>
 
 
