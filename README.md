@@ -39,15 +39,18 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
   - Status: WIP
   - Language: PHP/Laravel 
   - Description: Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)
-  - Bigupload //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload) / Try it [live](https://bigupload.myminicom.com/).
-  - Github worflow // Auto-deploy
   
+- __Bigupload__
+  -  //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload) / Try it [live](https://bigupload.myminicom.com/).
+  
+
 ### 🌱 I’m currently learning:<br>
   - PHP : no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress
   - Ruby : Ruby on rails
   - SQL, YML (gitlab-ci auto-deploy)
   - HTML, CSS, JS
   - Markdown for Readme purpose :)
+    - Github worflow // Auto-deploy
 
 ### 💬 How to reach me:<br>
   - Email: [raphael@myminicom.com](mailto:raphael@myminicom.com)
