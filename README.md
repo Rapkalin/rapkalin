@@ -41,7 +41,14 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
   - Description: Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)
   
 - __Bigupload__
-  -  //Live > Webapp - PHP/JS : A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload) / Try it [live](https://bigupload.myminicom.com/).
+  - Status: /!\ Live /!\ Try it [here](https://bigupload.myminicom.com/)
+  - Language: PHP/Javascript
+  - Description: A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
+    
+- __PHP code practice__
+  - Status: WIP
+  - Language: PHP no framework
+  - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame)
   
 
 ### 🌱 I’m currently learning:<br>
