@@ -30,26 +30,26 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
  
 :lotus_position_man: __At home:__<br>
 
-- __Coach Webapp__
-  - Status: WIP
-  - Language: Ruby/Ruby on rails
-  - Description: Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)
-
-- __CMS Laravel__
-  - Status: WIP
-  - Language: PHP/Laravel 
-  - Description: Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)
-  
 - __Bigupload__
   - Status: /!\ Live /!\ Try it [here](https://bigupload.myminicom.com/)
   - Language: PHP/Javascript
   - Description: A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
     
+   - __CMS Laravel__
+  - Status: WIP
+  - Language: PHP/Laravel 
+  - Description: Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)
+  
 - __PHP code practice__
   - Status: WIP
   - Language: PHP no framework
   - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame)
   
+- __Coach Webapp__
+  - Status: WIP
+  - Language: Ruby/Ruby on rails
+  - Description: Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)
+
 
 ### 🌱 I’m currently learning:<br>
   - PHP : no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress
