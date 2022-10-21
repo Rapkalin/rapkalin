@@ -18,6 +18,9 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 ---
 
+### 🏆 My guist - Quick function to help your daily dev life
+  - [PHP function to move a given value to the end of an array](https://gist.github.com/Rapkalin/e5ffd96f631b4314db5ae1256446cccf)
+
 
 ### 🔭 I’m currently working:
 
@@ -49,7 +52,7 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 
 
 ### 🌱 I’m currently learning:
-  - PHP: no framework, Laravel and Symfony / CMS : Customized CMS, Drupal and Wordpress
+  - PHP: no framework, Laravel and Symfony / CMS : Customized CMS, and Wordpress
   - Ruby: Ruby on rails
   - SQL, YML (gitlab-ci auto-deploy)
   - HTML, CSS, JS
