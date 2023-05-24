@@ -25,40 +25,80 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 ### 🔭 I’m currently working:
 
 :technologist: __At work:__<br>
-  - Opéra National de Paris > [visit the website](https://www.operadeparis.fr/)<br>
-  - The Ladies Bank > [visit the website](https://www.ladiesbank.fr/)<br>
-  - Numéro > [visit the website](https://www.numero.com/fr)<br>
+- __Opéra National de Paris__
+  - Link: [visit the website](https://www.operadeparis.fr/)<br>
+  - Language: PHP
+  - Framework: Laravel
+  - API for mobile App
 
+- __The Ladies Bank__
+  - Link: [visit the website](https://www.ladiesbank.fr/)<br>
+  - Language: PHP
+  - CMS: Wordpress
+  
+- __Numéro Magazine__
+  - Link: [visit the website](https://www.numero.com/fr)<br>
+  - Language: PHP
+  - CMS: Drupal
+  - API for mobile App
+  
+ - __Studio Liaigre__
+  - Link: [visit the website](https://www.studioliaigre.com/fr/)<br>
+  - Language: PHP
+  - CMS: Wordpress
+  - Framework: Themosis
+  
+ - __Sparfell__
+  - Link: [visit the website](https://www.sparfell.aero/)<br>
+  - Language: PHP
+  - CMS: Wordpress
+  
+  
 :lotus_position_man: __At home:__<br>
 
 - __Bigupload__
   - Status: :warning: Live :warning: Try it [here](https://bigupload.myminicom.com/)
-  - Language: PHP/Javascript
-  - Description: A WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
+  - Mode: Fullstack
+  - Languages: PHP/HTML/CSS/Javascript
+  - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
+
+- __Blog Explain code to me__
+  - Status: :warning: Live :warning: Try it [here](https://explain.code-to.me/)
+  - Mode: Fullstack
+  - Languages: PHP/HTML/CSS/Javascript
+  - CMS : Wordpress
+  - Description: A coding blog to simplify and popularize coding concepts. See the [repo](https://github.com/Rapkalin/explain-code)
+  - Co-authored and build with hte only and best: [Noweh](https://github.com/noweh)
     
 - __CMS Laravel__
   - Status: WIP
+  - Mode: Fullstack
   - Language: PHP/Laravel 
   - Description: Customized Laravel CMS. See the [repo](https://github.com/Rapkalin/projet-laravel)
   
 - __PHP code practice__
   - Status: WIP
+  - Mode: Backend
   - Language: PHP no framework
   - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame)
   
 - __Coach Webapp__
   - Status: WIP
-  - Language: Ruby/Ruby on rails
+  - Mode: Fullstack
+  - Languages: Ruby/HTML/CSS/Javascript
+  - Framework: Ruby on rails
   - Description: Help personnal coaches with their follow up. See the [repo](https://github.com/Rapkalin/coach_webapp)
 
 
 ### 🌱 I’m currently learning:
-  - PHP: no framework, Laravel and Symfony / CMS : Customized CMS, and Wordpress
-  - Ruby: Ruby on rails
-  - SQL, YML (gitlab-ci auto-deploy)
-  - HTML, CSS, JS
+  - Backend: PHP, Ruby, NodeJs, Shell, YAML, SQL
+  - Frontend: HTML, CSS, JS
+  - Framework PHP: Laravel and Symfony
+  - Framework Ruby: Ruby on Rails
+  - CMS PHP : Wordpress and Drupal
+  - DevOps: gitlab ci, gihub workflows
+  - Database: SQLite, PhpMyAdmin
   - Markdown for Readme purpose :)
-  - Github worflow // Auto-deploy
 
 ### 💬 How to reach me:
   - Email: [raphael@myminicom.com](mailto:raphael@myminicom.com)
