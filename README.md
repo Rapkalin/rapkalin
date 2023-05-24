@@ -42,13 +42,13 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
   - CMS: Drupal
   - API for mobile App
   
- - __Studio Liaigre__
+- __Studio Liaigre__
   - Link: [visit the website](https://www.studioliaigre.com/fr/)<br>
   - Language: PHP
   - CMS: Wordpress
   - Framework: Themosis
   
- - __Sparfell__
+- __Sparfell__
   - Link: [visit the website](https://www.sparfell.aero/)<br>
   - Language: PHP
   - CMS: Wordpress
