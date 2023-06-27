@@ -11,8 +11,8 @@ My name is Raphael and I'm a backend developer that loves resolving problems :)
 ### 🛠 Languages and statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapkalin&layout=compact" alt="rapkalin" height="195"/>  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rapkalin&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rapkalin&layout=compact" alt="rapkalin" height="195"/>  
 </div>
 
 
