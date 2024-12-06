@@ -38,7 +38,9 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - Status: :warning: Live :warning: Try it [here](https://bigupload.myminicom.com/)
   - Mode: Fullstack
   - Languages: PHP/HTML/CSS/Javascript
+  - Framework: Symfony 7
   - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
+  - Keywords: Symfony migration, upload files handling, frontend animation, unitTest, SOLID, conception
 
 - __Blog Explain code to me__
   - Status: :warning: Live :warning: Try it [here](https://explain.code-to.me/)
@@ -47,14 +49,35 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - CMS : Wordpress
   - Description: A coding blog to simplify and popularize coding concepts. See the [repo](https://github.com/Rapkalin/explain-code)
   - Co-authored and build with hte only and best: [Noweh](https://github.com/noweh)
-    
-- __PHP code practice__
+
+- __Bernard Crampon Photography__
+  - Status: :warning: Live :warning: Try it [here](https://www.bcramponphoto.com)
+  - Mode: Fullstack
+  - Languages: PHP/HTML/CSS/Javascript
+  - CMS : Wordpress
+  - Description: The Bernard Crampon photographer's website. See the [repo](https://github.com/Rapkalin/bcrampon-photos)
+
+  - __Parada__
+  - Status: :warning: Live :warning: Try it [here](https://www.parada.club/)
+  - Mode: Fullstack
+  - Languages: HTML/CSS/Javascript
+  - CMS : SquareSpace
+  - Description: A landing page for the brand Parada.
+
+  - __Fany Glass__
+  - Status: :warning: Live :warning: Try it [here](https://www.fany-glass.fr/)
+  - Mode: Fullstack
+  - Languages: HTML/CSS/Javascript
+  - CMS : SquareSpace
+  - Description: A new website for the brand Fany Glass.
+
+  - __PHP code practice__
   - Status: WIP
   - Mode: Backend
   - Language: PHP no framework
   - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame)
-
-
+ 
+   
 :technologist: __At Mazarine Agency (former job):__<br>
 
 - __Opéra National de Paris__
