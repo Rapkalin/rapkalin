@@ -57,25 +57,25 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - CMS : Wordpress
   - Description: The Bernard Crampon photographer's website. See the [repo](https://github.com/Rapkalin/bcrampon-photos)
 
-  - __Parada__
+- __Parada__
   - Status: :warning: Live :warning: Try it [here](https://www.parada.club/)
   - Mode: Fullstack
   - Languages: HTML/CSS/Javascript
   - CMS : SquareSpace
   - Description: A landing page for the brand Parada.
 
-  - __Fany Glass__
+- __Fany Glass__
   - Status: :warning: Live :warning: Try it [here](https://www.fany-glass.fr/)
   - Mode: Fullstack
   - Languages: HTML/CSS/Javascript
   - CMS : SquareSpace
   - Description: A new website for the brand Fany Glass.
 
-  - __PHP code practice__
+- __PHP code practice__
   - Status: WIP
   - Mode: Backend
   - Language: PHP no framework
-  - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame)
+  - Description: A project to practice some PHP code by resolving problems on 2 plateforms (Leetcode and Codingame) <br>
  
    
 :technologist: __At Mazarine Agency (former job):__<br>
