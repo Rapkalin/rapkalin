@@ -42,8 +42,16 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
   - Keywords: Symfony migration, upload files handling, frontend animation, unitTest, SOLID, conception
 
-- __Blog Explain code to me__
-  - Status: :warning: Live :warning: Try it [here](https://explain.code-to.me/)
+- __Paris Design__
+  - Status: :warning: Live :warning: Try it [here](https://p-design.fr/)
+  - Mode: Fullstack
+  - Languages: PHP/HTML/CSS/Javascript
+  - Framework: Wordpress
+  - Description: Paris Design is a company specialised in design furniture for hospitality, outdoor, workspace and residential. See the [repo](https://github.com/Rapkalin/p-design-wordpress)
+  - Keywords: Wordpress update, scrapping, redesign, debbuging
+
+- __Blog Code Cookie__
+  - Status: :warning: Redesign in process :warning: Try it [here](https://codecookie.fr/)
   - Mode: Fullstack
   - Languages: PHP/HTML/CSS/Javascript
   - CMS : Wordpress
