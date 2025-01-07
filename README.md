@@ -35,7 +35,7 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
 :lotus_position_man: __At home:__<br>
 
 - __Bigupload__
-  - Status: :warning: Live :warning: Try it [here](https://bigupload.myminicom.com/)
+  - Status: :warning: Live :warning: Try it [here](https://bigupload.rapkalin.fr/)
   - Mode: Fullstack
   - Languages: PHP/HTML/CSS/Javascript
   - Framework: Symfony 7
