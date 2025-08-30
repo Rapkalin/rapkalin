@@ -38,8 +38,8 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - Mode: Fullstack
   - Languages: PHP/HTML/CSS/Javascript
   - CMS: Wordpress
-  - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/bigupload)
-  - Keywords: Symfony migration, upload files handling, frontend animation, unitTest, SOLID, conception
+  - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/2bdm)
+  - Keywords: Wordpress update, redesign, debbuging
 
 - __Bigupload__
   - Status: 🟩 Live -> Try it [here](https://bigupload.rapkalin.fr/)
