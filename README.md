@@ -38,8 +38,16 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - Mode: Fullstack
   - Languages: PHP/HTML/CSS/Javascript
   - CMS: Wordpress
-  - Description: A French WeTransker-alike webapp. See the [repo](https://github.com/Rapkalin/2bdm)
+  - Description: One of the leading French architectural firms, 2BDM Architectes is a unique structure dedicated to ancient heritage (historic monuments and gardens). See the [repo](https://github.com/Rapkalin/2bdm)
   - Keywords: Wordpress update, redesign, debbuging
+
+- __Blog Code Cookie__
+  - Status: :warning: Redesign in process -> Try it [here](https://codecookie.fr/)
+  - Mode: Fullstack
+  - Languages: PHP/HTML/CSS/Javascript
+  - CMS: Wordpress
+  - Description: A coding blog to simplify and popularize coding concepts. See the [repo](https://github.com/Rapkalin/explain-code)
+  - Co-authored and build with hte only and best: [Noweh](https://github.com/noweh)
 
 - __Bigupload__
   - Status: 🟩 Live -> Try it [here](https://bigupload.rapkalin.fr/)
@@ -56,14 +64,6 @@ My name is Raphael and I'm a 3years+ xp fullstack PHP developer that loves resol
   - CMS: Wordpress
   - Description: Paris Design is a company specialised in design furniture for hospitality, outdoor, workspace and residential. See the [repo](https://github.com/Rapkalin/p-design-wordpress)
   - Keywords: Wordpress update, scrapping, redesign, debbuging
-
-- __Blog Code Cookie__
-  - Status: :warning: Redesign in process -> Try it [here](https://codecookie.fr/)
-  - Mode: Fullstack
-  - Languages: PHP/HTML/CSS/Javascript
-  - CMS: Wordpress
-  - Description: A coding blog to simplify and popularize coding concepts. See the [repo](https://github.com/Rapkalin/explain-code)
-  - Co-authored and build with hte only and best: [Noweh](https://github.com/noweh)
 
 - __Bernard Crampon Photography__
   - Status: 🟩 Live -> Try it [here](https://www.bcramponphoto.com)
