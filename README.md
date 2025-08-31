@@ -39,7 +39,7 @@ My name is Raphael and I'm a 4 years+ xp fullstack PHP developer that loves reso
   - Languages: PHP/HTML/CSS/Javascript
   - CMS: Wordpress
   - Description: One of the leading French architectural firms, 2BDM Architectes is a unique structure dedicated to ancient heritage (historic monuments and gardens). See the [repo](https://github.com/Rapkalin/2bdm)
-  - Keywords: Wordpress update, redesign, debbuging
+  - Keywords: Wordpress update, redesign, debbuging, component oriented architecture
 
 - __Blog Code Cookie__
   - Status: :warning: Redesign in process -> Try it [here](https://codecookie.fr/)
