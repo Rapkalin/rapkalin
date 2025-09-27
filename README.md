@@ -16,13 +16,13 @@ My name is Raphael and I'm a 5 years+ xp fullstack PHP/Typescript/Angular develo
 </div>
 
 ### 🌱 My skills:
-  - Backend: PHP, NodeJs, Shell, YAML
+  - Backend: PHP, NodeJs/Typescript, Shell, YAML, SQL
   - Frontend: HTML, CSS, JS
-  - Framework Front: ReactJS
+  - Framework Front: ReactJS, Angular
   - Framework PHP: Laravel and Symfony
-  - CMS: Wordpress and Drupal
-  - DevOps: CI/CD -> gitlab, github
-  - Database: SQLite, PhpMyAdmin, Redis, SQL
+  - CMS: Strapi, Wordpress and Drupal
+  - DevOps: CI/CD -> gitlab, github, Docker
+  - Database: SQLite, Redis, MySQL, Postgres
   - Markdown for Readme purpose :)
 
 ---
